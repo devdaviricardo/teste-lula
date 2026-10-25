@@ -1,0 +1,6 @@
+/**
+ * quero
+ */
+public class quero {
+
+}
